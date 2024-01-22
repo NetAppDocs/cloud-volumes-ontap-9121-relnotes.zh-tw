@@ -378,7 +378,6 @@
   <block id="cee631121c2ec9232f3a2f028ad5c89b" category="cell">500</block>
   <block id="9dba50d3a2c2f26daddbf9d144c49772" category="cell">最小尺寸</block>
   <block id="e2fca4ed20d01d1eda8a934cf81cb194" category="cell">20 MB</block>
-  <block id="309524b9e1ef1d7d7d905c7cb1d358e9" category="cell">100 TB</block>
   <block id="f870c45bb6c4b8bad8f13c8dc3439f98" category="cell">* qtree *</block>
   <block id="8032f0290a7c4e00a6da3a195523a94e" category="cell">每FlexVol 個速度區塊的最大值</block>
   <block id="38de34e4b49b8adfeb2c678818915204" category="cell">4、995</block>
@@ -515,7 +514,6 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="d5b5d1eda2a2c0d060f59094000e6aea" category="paragraph">因為它需要私有IP位址、所以會限制您可以建立的額外儲存VM數量。唯一的例外是多個AZs中的HA配對。在這種情況下、管理LIF的IP位址是_浮 點IP位址、因此不會計入_Private IP限制。</block>
   <block id="4f9154c68af93dc525373bf1a9c2edce" category="section-title">檔案與Volume限制</block>
   <block id="8e79313a5b6fb51ae3e76e64449c9f1d" category="cell">階層式複製深度^1^</block>
-  <block id="87338ad799bddd85c6298bb9270dc27f" category="cell">100 TiB</block>
   <block id="16b3ee4e5301a5f3f5b55816b3906b83" category="summary">這些版本說明Cloud Volumes ONTAP 介紹有關更新功能、限制和已知問題的資訊。</block>
   <block id="f27b112d1527e5f29f0e8f510d779a5e" category="doc">《》（英文Cloud Volumes ONTAP ）</block>
   <block id="fa082ab1a05e05550971e6e5f583dcfe" category="summary">AWS支援多Cloud Volumes ONTAP 種支援的支援功能。</block>
@@ -716,4 +714,11 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="fade75ceec599e990625d8fe892dc7d0" category="paragraph">所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P8 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">檢視 P8 修補程式中修正的錯誤清單</block>
   <block id="256a78f661aac1037fd4538bac2c35e2" category="paragraph"><block ref="eeacaebd27be6cafb953a21f643315af" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
+  <block id="64063abe39aac990beb215f4e4df9f92" category="cell">最大大小 ^2^</block>
+  <block id="d0bb632fcdb31cf3c729c1c59f826d4f" category="cell">128 TB</block>
+  <block id="95f8ab07e6196c13df81b9123cb42b19" category="cell">最大大小 ^3^</block>
+  <block id="4dd4655034851cefb46869bef690cc22" category="cell">300 TiB</block>
+  <block id="ae809759e1518d5c4c2019b9c03f15a1" category="list-text">從 ONTAP 9.12.1P2 開始、上限為 128 TB 。在 ONTAP 9.11.1 及更早版本中、上限為 16 TB 。</block>
+  <block id="363a2a1557561115c9aab27b368391e0" category="list-text">從 Cloud Volumes ONTAP 9.12.1 P2 開始、系統管理員可支援建立最多 300 TiB 的 FlexVol Volume 。</block>
+  <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300 TB</block>
 </blocks>
