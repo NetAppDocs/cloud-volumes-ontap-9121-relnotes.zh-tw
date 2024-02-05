@@ -721,4 +721,8 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="ae809759e1518d5c4c2019b9c03f15a1" category="list-text">從 ONTAP 9.12.1P2 開始、上限為 128 TB 。在 ONTAP 9.11.1 及更早版本中、上限為 16 TB 。</block>
   <block id="363a2a1557561115c9aab27b368391e0" category="list-text">從 Cloud Volumes ONTAP 9.12.1 P2 開始、系統管理員可支援建立最多 300 TiB 的 FlexVol Volume 。</block>
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300 TB</block>
+  <block id="970d5c9706f6ab7714134e23fcf688b5" category="section-title">9.12.1 第 9 頁（ 2024 年 2 月 5 日）</block>
+  <block id="cc166601884aa0c57bb02902cbf3e2ad" category="paragraph">所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P9 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
+  <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link-macro">檢視 P9 修補程式中修正的錯誤清單</block>
+  <block id="d0b2ca8271dd8bcbce366784bf744158" category="paragraph"><block ref="a62fdbf622c208963a49bc988200ee74" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
 </blocks>
