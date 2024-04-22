@@ -725,4 +725,12 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="cc166601884aa0c57bb02902cbf3e2ad" category="paragraph">所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P9 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link-macro">檢視 P9 修補程式中修正的錯誤清單</block>
   <block id="d0b2ca8271dd8bcbce366784bf744158" category="paragraph"><block ref="a62fdbf622c208963a49bc988200ee74" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
+  <block id="bc350ad8c67dbe0649aba1c477f12196" category="section-title">9.12.1 第 11 頁（ 2024 年 4 月 22 日）</block>
+  <block id="c32b8321eaf1dbea8beb66abe7fbcfa1" category="paragraph">所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P11 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
+  <block id="4d51ff14f4691186785e9ce841b8db7c" category="inline-link-macro">檢視P11修補程式中修正的錯誤清單</block>
+  <block id="06f79f1078bf5db87d3fc63cd27e36b6" category="paragraph"><block ref="41aa0def279e63ada20c34fc0220a832" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
+  <block id="f0bcb6a3834bb8226d6e034f6f0d4d9a" category="section-title">9.12.1 第 10 頁（ 2024 年 4 月 22 日）</block>
+  <block id="d5e02577f66b97067be75a9ef81d7c09" category="paragraph">所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P10 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
+  <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link-macro">檢視 P10 修補程式中修正的錯誤清單</block>
+  <block id="606401dc75e0992ae91880346f992a16" category="paragraph"><block ref="1f37417b1f9cda079de9cdbac9ee9dcc" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
 </blocks>
