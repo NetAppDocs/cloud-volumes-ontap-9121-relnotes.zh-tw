@@ -1,5 +1,9 @@
 ---
 indexpage:
+  title: Cloud Volumes ONTAP 9.12.1 版本資訊
+  summary: 這些版本說明Cloud Volumes ONTAP 介紹有關更新功能、限制和已知問題的資訊。
+  keywords: rn, cvo, release notes cloud volumes ontap, known, limitations, new, features,
+    issues, 9.12.1, 9121
   lead: 這些版本說明Cloud Volumes ONTAP 介紹有關更新功能、限制和已知問題的資訊。
   tiles:
   - title: 開始使用
