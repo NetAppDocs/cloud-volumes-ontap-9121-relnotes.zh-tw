@@ -20,6 +20,7 @@ summary: 更新功能包括更新功能Cloud Volumes ONTAP 。
 
 
 
+[[9-12-1-p14-29-august-2024]]
 == 9.12.1 P14 （ 2024 年 29 月 8 日）
 
 所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 9.12.1 P14 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。
@@ -28,6 +29,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-12-1-p13-8-august-2024]]
 == 9.12.1 P13 （ 2024 年 8 月 8 日）
 
 所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 9.12.1 P13 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。
@@ -36,6 +38,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-12-1-p12-22-may-2024]]
 == 9.12.1 第 12 頁（ 2024 年 5 月 22 日）
 
 所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P12 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。
@@ -44,6 +47,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-12-1-p11-22-april-2024]]
 == 9.12.1 第 11 頁（ 2024 年 4 月 22 日）
 
 所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P11 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。
@@ -52,6 +56,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-12-1-p10-22-april-2024]]
 == 9.12.1 第 10 頁（ 2024 年 4 月 22 日）
 
 所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P10 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。
@@ -60,6 +65,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-12-1-p9-5-february-2024]]
 == 9.12.1 第 9 頁（ 2024 年 2 月 5 日）
 
 所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P9 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。
@@ -68,6 +74,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-12-1-p8-8-december-2023]]
 == 9.12.1 第 8 頁（ 2023 年 12 月 8 日）
 
 所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.12.1 P8 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。
@@ -76,18 +83,21 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-12-1-ga-9-february-2023]]
 == 9.12.1 GA（2023年2月9日）
 
 AWS、Azure和Google Cloud現已推出《通用版本》（GA）版本Cloud Volumes ONTAP 的《支援資訊》（General Availability、GA）。GA版本包含錯誤修正。
 
 
 
+[[9-12-1-rc1-8-december-2022]]
 == 9.12.1 RC1（2022年12月8日）
 
 AWS、Azure和Google Cloud現已推出《發行候選版本1》Cloud Volumes ONTAP 。此版本包含下列新功能與增強功能。
 
 
 
+[[ontap-s3-license-in-gcp]]
 === GCP 中的 ONTAP S3 授權
 
 在Google Cloud Platform中、執行9.12.1版或更新版本的全新及現有的版本不含更新版本的S3授權Cloud Volumes ONTAP ONTAP 。
@@ -96,6 +106,7 @@ https://docs.netapp.com/us-en/ontap/object-storage-management/index.html["瞭解
 
 
 
+[[nvme-tcp-support-in-cloud-volumes-ontap]]
 === 支援NVMe-TCP Cloud Volumes ONTAP
 
 如果您使用Cloud Volumes ONTAP 的是版本為9.12.1或更新版本、則支援適用於雲端供應商的NVMe-TCP。BlueXP不提供任何適用於NVMe TCP的管理功能。
@@ -104,6 +115,7 @@ https://docs.netapp.com/us-en/ontap/object-storage-management/index.html["瞭解
 
 
 
+[[azure-ha-in-a-single-availability-zone-with-shared-managed-disks]]
 === Azure HA位於單一可用度區域中、提供共享的託管磁碟
 
 您現在可以使用Cloud Volumes ONTAP Microsoft Azure本機備援儲存設備（LRS）、在共享的託管磁碟上執行、來部署一套功能完善的HA組態。本機備援儲存設備可在同一區域的單一資料中心內複寫資料三次。
@@ -114,6 +126,7 @@ https://docs.netapp.com/us-en/ontap/object-storage-management/index.html["瞭解
 
 
 
+[[azure-ha-in-multiple-availability-zones-with-shared-managed-disks]]
 === Azure HA位於多個可用度區域、並使用共享的託管磁碟
 
 您現在可以使用Cloud Volumes ONTAP Azure在一個區域內的多個可用度區域來部署一套不間斷HA組態。新組態可防止資料中心故障、並使用Azure區域備援儲存設備（ZRS）共享託管磁碟來維持應用程式可用度。此功能目前僅適用於美國西部2、西歐、歐洲北部和法國中部地區。
@@ -126,12 +139,14 @@ https://docs.netapp.com/us-en/ontap/object-storage-management/index.html["瞭解
 
 
 
+[[upgrade-notes]]
 == 升級附註
 
 請閱讀這些附註、深入瞭解升級至此版本的相關資訊。
 
 
 
+[[how-to-upgrade]]
 === 如何升級
 
 必須從BlueXP完成升級。Cloud Volumes ONTAP您不應 Cloud Volumes ONTAP 使用 System Manager 或 CLI 來升級功能。這樣做可能會影響系統穩定性。
@@ -140,12 +155,14 @@ http://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap-clou
 
 
 
+[[supported-upgrade-path]]
 === 支援的升級途徑
 
 您可以從Cloud Volumes ONTAP 9.12.0和9.11.1版本升級至版本的版本。BlueXP會提示您將合格Cloud Volumes ONTAP 的更新版升級至此版本。
 
 
 
+[[required-version-of-the-connector]]
 === 所需版本的Connector
 
 BlueXP Connector 必須執行 3.9.24 版或更新版本、才能部署新的 Cloud Volumes ONTAP 9.12.1 系統、並將現有系統升級至 9.12.1 版。
@@ -155,6 +172,7 @@ TIP: 連接器的自動升級預設為啟用、因此您應該執行最新版本
 
 
 
+[[downtime]]
 === 停機
 
 * 單一節點系統的升級可讓系統離線長達25分鐘、在此期間I/O會中斷。
@@ -163,6 +181,7 @@ TIP: 連接器的自動升級預設為啟用、因此您應該執行最新版本
 
 
 
+[[upgrades-in-aws-with-c4-m4-and-r4-ec2-instance-types]]
 === 使用 C4 、 M4 和 R4 EC2 執行個體類型在 AWS 中升級
 
 在 AWS 中、新的 Cloud Volumes ONTAP 部署不再支援 C4 、 M4 和 R4 EC2 執行個體類型。如果現有的系統執行於c4、m4或r4執行個體類型、則必須變更為c5、m5或R5執行個體系列中的執行個體類型。如果您無法變更執行個體類型、則必須在升級之前啟用增強的網路功能。
